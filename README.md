@@ -1,0 +1,1 @@
+# terraform-aws-replicated-s3-bucket
